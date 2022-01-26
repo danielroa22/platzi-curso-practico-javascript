@@ -146,9 +146,9 @@ function calcularAreaCirculo(){
 //Aqui vamos a obtener la altura de un triángulo isósceles 
 
 function calcularAlturaTrianguloIsosceles() {
-    const inputLado1 = document.getElementById("inputTrianguloLado1");
-    const inputLado2 = document.getElementById("inputTrianguloLado2");
-    const inputBase = document.getElementById("inputTrianguloBase");
+    const inputLado1 = document.getElementById("inputIsoscelesLado1");
+    const inputLado2 = document.getElementById("inputIsoscelesLado2");
+    const inputBase = document.getElementById("inputIsoscelesBase");
 
     const valueLado1 = parseInt(inputLado1.value);
     const valueLado2 = parseInt(inputLado2.value);
