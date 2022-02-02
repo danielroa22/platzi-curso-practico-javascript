@@ -14,4 +14,4 @@
 - Primer paso: definir las fórmulas.
 - Segundo paso: implementar las fórmulas en JavaScript.
 - Ter paso: crear funciones.
-- Cuarto paso: integrar JavaScript con HTML.
+- Cuarto paso: integrar JavaScript con HTML. 
